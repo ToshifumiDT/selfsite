@@ -50,3 +50,13 @@ footer table{
 footer table td{
     padding:10px 20px;
 }
+button{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    color: black;
+    border: none;
+    border-radius: 30px;
+}
