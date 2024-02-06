@@ -2,20 +2,27 @@
     padding: 0%;
     margin:0%
 }
+/*header*/
 header{
-    background-color:antiquewhite;
+    background-color: bisque;
     padding: 30px;
     text-align: center;    
 }
 header h1{
     font-size: 60px;
 }
+/*main*/
+main figure{
+    background-color: antiquewhite;
+}
 
 main .image figure img{
-    width: 100%;
+    width: 40%;
+    margin: auto;
+    display: block;
 }
 main .about1{
-    background-color: chocolate;
+    background-color: bisque;
     padding: 30px;
     text-align: center;
 }
@@ -24,18 +31,28 @@ main .about2{
     padding: 30px;
     text-align: center;
 }
-main .about .container{
+main .about1 .container{
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
 }
-main .about h2{
+main .about2 .container{
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+main .about1 h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+main .about2 h2{
     font-size: 36px;
     margin-bottom: 20px;
 }
 ul{
     list-style: none;
   }
+/*footer*/
 footer{
     background-color: chocolate;
 }
@@ -50,6 +67,7 @@ footer table{
 footer table td{
     padding:10px 20px;
 }
+/*button*/
 button{
     display: block;
     margin: auto;
