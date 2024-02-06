@@ -14,7 +14,12 @@ header h1{
 main .image figure img{
     width: 100%;
 }
-main .about{
+main .about1{
+    background-color: chocolate;
+    padding: 30px;
+    text-align: center;
+}
+main .about2{
     background-color: antiquewhite;
     padding: 30px;
     text-align: center;
@@ -28,6 +33,9 @@ main .about h2{
     font-size: 36px;
     margin-bottom: 20px;
 }
+ul{
+    list-style: none;
+  }
 footer{
     background-color: chocolate;
 }
