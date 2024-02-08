@@ -11,6 +11,18 @@ header{
 header h1{
     font-size: 60px;
 }
+/*button*/
+button {
+    display: block;
+    margin-left: auto;
+    width: 120px;
+    height: 35px;
+    font-size: 20px;
+    color: black;
+    background-color: burlywood;
+    border: none;
+    border-radius: 30px;
+}
 /*main*/
 main figure{
     background-color: antiquewhite;
@@ -54,7 +66,7 @@ ul{
   }
 /*footer*/
 footer{
-    background-color: chocolate;
+    background-color: burlywood;
 }
 footer h2{
     text-align: center;
@@ -66,16 +78,4 @@ footer table{
 }
 footer table td{
     padding:10px 20px;
-}
-/*button*/
-button {
-    display: block;
-    margin: auto;   
-    width: 120px;
-    height: 35px;
-    font-size: 20px;
-    color: black;
-    background-color: bisque;
-    border: none;
-    border-radius: 30px;
 }
