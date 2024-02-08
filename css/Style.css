@@ -68,11 +68,11 @@ footer table td{
     padding:10px 20px;
 }
 /*button*/
-button{
+button {
     display: block;
-    margin: auto;
-    width: 100px;
-    height: 30px;
+    margin: auto;   
+    width: 120px;
+    height: 35px;
     font-size: 20px;
     color: black;
     background-color: bisque;
