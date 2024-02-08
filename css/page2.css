@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin:0%
+}
+header{
+    background-color: bisque;
+    padding: 30px;
+    text-align: center;    
+}
+main{
+    background-color: antiquewhite;
+}
